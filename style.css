@@ -1,0 +1,26 @@
+body{
+    background-color: #cccccc;
+}
+
+.bg-body-tertiary{
+    background-color: #cccccc;
+}
+
+.navbar{
+    border-bottom: solid 1px #333333;
+}
+
+.header__logo{
+    height: 128px;
+    width: 128px;
+}
+
+.header__cart{
+    height: 24px;
+    width: 24px;
+}
+
+footer h1{
+    font-family: Impact, " Charcoal", " sans-serif";
+    font-size: 20px;
+}
