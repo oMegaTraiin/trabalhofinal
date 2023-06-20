@@ -20,6 +20,10 @@ body{
     padding: 25px;
 }
 
+.buy-button{
+    padding-top: 20px;
+}
+
 .footer h1{
     font-family: Impact, " Charcoal", " sans-serif";
     color: #333333;
@@ -51,6 +55,7 @@ body{
 
 .toolbar{
     padding: 10px;
+    padding-top: 60px;
 }
 
 .text-left{
